@@ -1,4 +1,4 @@
-const API_URL = 'https://backend-eyb1.onrender.com/api';
+const API_URL = 'https://backend-pafs.onrender.com';
 
 // Load dashboard data
 async function loadDashboardData() {
